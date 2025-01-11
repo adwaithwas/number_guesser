@@ -1,0 +1,8 @@
+answer --> random.randit()
+number --> user input
+
+#### RULES FOR HINT ####
+    answer - number = gap //absolute value
+    gap <= 5 --> warm
+    gap <= 2 --> hot
+    gap > 5 --> cold
